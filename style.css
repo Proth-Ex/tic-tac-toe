@@ -35,7 +35,7 @@ body{
 
 #reset{
     width: 20vmin;
-    height: 5vmin;
+    padding: 1vmin;
     border-radius: 10px;
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
