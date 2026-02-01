@@ -48,6 +48,7 @@ reset.addEventListener("click", () => {
     );
     boxes.forEach((box) => box.disabled = false);
     winner.innerText = "";
+    turnX = true;
 })
 
 const checkWinner = () => {
