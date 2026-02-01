@@ -26,6 +26,9 @@ body{
 }
 
 .btn{
+    background-color: aliceblue;
+    color: black;
+    font-size: 30px;
     height: 18vmin;
     width: 18vmin;
     border: none;
@@ -39,6 +42,6 @@ body{
     border-radius: 10px;
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #6E6F69;
+    background-color: #191516;
     color: #D7D9CE;
 }
